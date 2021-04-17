@@ -2,7 +2,7 @@
   
   <body/>
   
-  <h1> This is a Web <h1/>
+  <h3> This is a Web <h3/>
   
   <body/>
   
